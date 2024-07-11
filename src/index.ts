@@ -5,9 +5,11 @@ import cookieParser from 'cookie-parser'
 import cors from 'cors'
 import config from 'config/config'
 import Logging from 'lib/Logging'
+import mongoose from 'mongoose'
 
 const router = express()
 
+// Start server: setup routes and logs.
 const startServer = () => {
 	router.use((req, res, next) => {
 		const request = `Incoming -> Method: [${req.method}] - Url: [${req.url}] IP: [${req.socket.remoteAddress}]`
@@ -52,4 +54,24 @@ const startServer = () => {
 	})
 }
 
-startServer()
+// Connect to MongoDB.
+mongoose.set('strictQuery', true)
+// Include virtual fields in the JSON output, and remove the _id property from the resulting JSON object.
+mongoose.set('toJSON', {
+	virtuals: true,
+	transform: (doc, converted) => {
+		// eslint-disable-next-line no-underscore-dangle, no-param-reassign
+		delete converted._id
+	},
+})
+
+mongoose
+	.connect(config.db.uri)
+	.then(() => {
+		Logging.log('Connected to DB.')
+		startServer()
+	})
+	.catch((error) => {
+		Logging.error('Unable to connect to DB: ')
+		Logging.error(error)
+	})

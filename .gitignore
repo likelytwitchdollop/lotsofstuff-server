@@ -4,6 +4,9 @@ node_modules/
 # TypeScript cache.
 *.tsbuildinfo
 
+# Distribution/build folder.
+dist
+
 # dotenv environment variable files.
 .env
 .env.development.local

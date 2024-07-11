@@ -1,0 +1,6 @@
+{
+  "watch": ["src/**/*.ts", "src/**/*.json"],
+  "execMap": {
+    "ts": "node --no-warnings --loader ts-node/esm"
+  }
+}

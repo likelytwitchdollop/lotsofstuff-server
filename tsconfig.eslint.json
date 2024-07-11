@@ -1,0 +1,12 @@
+{
+	"extends": "./tsconfig.json",
+	"include": [
+		// Repeated from base config's "include" setting.
+		"src",
+		"*.ts",
+		"*.tsx",
+
+		// These are the eslint-only inclusions. When the parserOptions error is thrown, add affected file here.
+		".eslintrc.js"
+	]
+}

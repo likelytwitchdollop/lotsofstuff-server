@@ -1,5 +1,5 @@
 import * as z from 'zod'
-import { ProductCategory, ProductWithId } from './products.model'
+import { ProductWithId } from './products.model'
 
 export const SortBy = z.enum([
 	'relevance',
@@ -13,7 +13,7 @@ export const NumberAsStrng = z
 
 export const SearchProductsQueryParams = z.object({
 	search: z.string().optional(),
-	category: ProductCategory.optional(),
+	category: z.string().optional(),
 	subCategory: z.string().optional(),
 	brand: z.string().optional(),
 	sortBy: SortBy.optional(),
@@ -38,7 +38,7 @@ type PaginatedRequestResponse<T> = {
 export type SearchProductsReponse = PaginatedRequestResponse<ProductWithId>
 
 export const GetMaximumPriceQueryParams = z.object({
-	category: ProductCategory.optional(),
+	category: z.string().optional(),
 })
 
 // eslint-disable-next-line @typescript-eslint/no-redeclare

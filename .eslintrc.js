@@ -17,8 +17,12 @@ module.exports = {
 	plugins: ['@typescript-eslint', 'import'],
 	rules: {
 		'node/no-unsupported-features/es-syntax': [
-			'error',
-			{ ignores: ['modules'] },
+			'off',
+			{
+				// Using 8.3.0 or above to allow support for spread syntax on arrays and objects.
+				version: '>=10.0.0',
+				ignores: ['modules'],
+			},
 		],
 		'node/no-missing-import': ['off'],
 	},

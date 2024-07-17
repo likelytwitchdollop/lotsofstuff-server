@@ -1,0 +1,513 @@
+[
+	{
+		"productName": "ZW COLLECTION FAUX FUR COAT WITH HOOD",
+		"price": 4999.0,
+		"description": "Long hooded coat with long sleeves. Front pockets. Tied belt in matching fabric. Snap buttons down the front.",
+		"category": "fashion",
+		"subCategory": "coats",
+		"color": "cream",
+		"images": [
+			"https://static.zara.net/photos///2023/I/0/1/p/4360/251/712/2/w/563/4360251712_6_1_1.jpg?ts=1698245275963",
+			"https://static.zara.net/photos///2023/I/0/1/p/4360/251/712/2/w/563/4360251712_6_2_1.jpg?ts=1698245276063"
+		]
+	},
+	{
+		"productName": "WATER-REPELLENT PUFFER COAT",
+		"price": 2299.0,
+		"description": "Puffer coat with a high collar and hood. Featuring long sleeves with inner elastic cuffs, side in-seam zip pockets and a zip-up front.",
+		"category": "fashion",
+		"subCategory": "coats",
+		"color": "black",
+		"images": [
+			"https://static.zara.net/assets/public/71b6/3bd4/f847499d9d90/1604b38649db/07522243800-e1/07522243800-e1.jpg?ts=1709197911147&w=563",
+			"https://static.zara.net/assets/public/ead2/7cb9/80c244ee8dcd/b135051a7f84/07522243800-e2/07522243800-e2.jpg?ts=1709194814150&w=563"
+		]
+	},
+	{
+		"productName": "SOFT SHORT JACKET",
+		"price": 899.0,
+		"description": "Long sleeve collared jacket. Front patch pockets with flaps and snap-button fastening at the front.",
+		"category": "fashion",
+		"subCategory": "jackets",
+		"color": "cream",
+		"images": [
+			"https://static.zara.net/photos///2023/I/0/1/p/3046/260/712/2/w/563/3046260712_6_1_1.jpg?ts=1692174136691",
+			"https://static.zara.net/photos///2023/I/0/1/p/3046/260/712/2/w/563/3046260712_6_2_1.jpg?ts=1692174136726"
+		]
+	},
+	{
+		"productName": "ZW COLLECTION HOUNDSTOOTH BLAZER",
+		"price": 1699.0,
+		"description": "Fitted blazer with a notched lapel collar and long sleeves. Matching lining. Straight hem. Button-up front.",
+		"category": "fashion",
+		"subCategory": "blazers",
+		"color": "white",
+		"images": [
+			"https://static.zara.net/assets/public/0ef2/d8e8/85b24bcb919a/edcd09f671dc/03627569084-e1/03627569084-e1.jpg?ts=1717660659624",
+			"https://static.zara.net/assets/public/fecd/2b39/79344c58904d/239fa0338830/03627569084-e2/03627569084-e2.jpg?ts=1717660697243"
+		]
+	},
+	{
+		"productName": "TEXTURED BLAZER",
+		"price": 1699.0,
+		"description": "Blazer with a round neck and long sleeves. Flap pockets on the front. Button-up front.",
+		"category": "fashion",
+		"subCategory": "blazers",
+		"color": "blue",
+		"images": [
+			"https://static.zara.net/assets/public/ee8a/d9ec/e5bb400d9c48/c4caa2b4aff1/03692327043-e1/03692327043-e1.jpg?ts=1716823480987",
+			"https://static.zara.net/assets/public/62db/6468/5d4140c4aa97/9a72c0523e29/03692327043-e2/03692327043-e2.jpg?ts=1716823480619"
+		]
+	},
+	{
+		"productName": "SATIN MIDI DRESS",
+		"price": 899.0,
+		"description": "Strappy dress with a cowl neckline. Gathered detail on the front.",
+		"category": "fashion",
+		"subCategory": "dresses",
+		"color": "black",
+		"images": [
+			"https://static.zara.net/assets/public/924b/60e6/eb4d4c3fb602/e7ab04b3448f/07352599800-e1/07352599800-e1.jpg?ts=1713431876192&w=563",
+			"https://static.zara.net/assets/public/1f0d/95d7/2faf4723939d/69875c5e1d91/07352599800-e2/07352599800-e2.jpg?ts=1713431874594&w=563"
+		]
+	},
+	{
+		"productName": "DRAPED MIDI DRESS",
+		"price": 899.0,
+		"description": "Sleeveless knit midi dress with a high neck. Draped fabric. Back vent at the hem. Matching lining. Invisible zip fastening.",
+		"category": "fashion",
+		"subCategory": "dresses",
+		"color": "green",
+		"images": [
+			"https://static.zara.net/assets/public/5675/6d79/900141b5b5ec/cd709dbf60af/03152206543-e1/03152206543-e1.jpg?ts=1708543478238&w=563",
+			"https://static.zara.net/assets/public/9d27/919c/28fb4849ac7c/f9fa534e733e/03152206543-e2/03152206543-e2.jpg?ts=1708543477603&w=563"
+		]
+	},
+	{
+		"productName": "BLOUSE WITH RUFFLES",
+		"price": 769.0,
+		"description": "Blouse featuring a ruffled V-neckline and sleeves with elasticated smocked cuffs.",
+		"category": "fashion",
+		"subCategory": "shirts + blouses",
+		"color": "blue",
+		"images": [
+			"https://static.zara.net/assets/public/baab/770e/65e7418491be/d30a40459694/02298102403-e1/02298102403-e1.jpg?ts=1718624596562&w=563",
+			"https://static.zara.net/assets/public/f24e/138f/88984cefa63f/a92526d478c8/02298102403-e2/02298102403-e2.jpg?ts=1718624596189&w=563"
+		]
+	},
+	{
+		"productName": "ZW COLLECTION PRINTED BLOUSE",
+		"price": 1299.0,
+		"description": "Shirt with a V-neckline and long sleeves. Featuring metallic thread detailing and front fastening with covered buttons.",
+		"category": "fashion",
+		"subCategory": "shirts + blouses",
+		"color": "brown",
+		"images": [
+			"https://static.zara.net/assets/public/96d2/8eed/1f20443ea7b9/a35985f26657/07521900330-e1/07521900330-e1.jpg?ts=1717078505350&w=563",
+			"https://static.zara.net/assets/public/d7c5/a7ec/bc90419a8058/79e2f6f59135/07521900330-e2/07521900330-e2.jpg?ts=1717078467777&w=563"
+		]
+	},
+	{
+		"productName": "CREPE TOP WITH KNOT",
+		"price": 679.0,
+		"description": "Short sleeve top with a surplice neckline. Front tie detail. Invisible side zip fastening.",
+		"category": "fashion",
+		"subCategory": "tops",
+		"color": "black",
+		"images": [
+			"https://static.zara.net/assets/public/4110/cdb4/c43b4e5680af/8826118cf402/03055572800-e1/03055572800-e1.jpg?ts=1712760411716&w=563",
+			"https://static.zara.net/assets/public/901c/6184/53fe47a2b211/ad9eb21dd3db/03055572800-e2/03055572800-e2.jpg?ts=1712673281925&w=563"
+		]
+	},
+	{
+		"productName": "FITTED HALTER TOP",
+		"price": 679.0,
+		"description": "Fitted halter top featuring a round collar, an open back and invisible side zip fastening.",
+		"category": "fashion",
+		"subCategory": "tops",
+		"color": "black",
+		"images": [
+			"https://static.zara.net/assets/public/2f01/c04c/b0e646438af3/2a1e93b7cef5/02284777800-e1/02284777800-e1.jpg?ts=1711102894624&w=563",
+			"https://static.zara.net/assets/public/38ac/0837/a93b4066ab86/2a0632ed3c06/02284777800-e2/02284777800-e2.jpg?ts=1711102893271&w=563"
+		]
+	},
+	{
+		"productName": "HEAVY COTTON PANTONE CROPPED T-SHIRT",
+		"price": 499.0,
+		"description": "T-shirt made of spun compact cotton. Featuring a round neck, drop-shoulder short sleeves, a textured transparent PANTONE™ patch and a seamless hem.",
+		"category": "fashion",
+		"subCategory": "t-shirts",
+		"color": "cream",
+		"images": [
+			"https://static.zara.net/assets/public/1d5d/6544/dcf24cbea841/75ca2764a1d2/01131367526-e1/01131367526-e1.jpg?ts=1713855379230&w=563",
+			"https://static.zara.net/assets/public/774e/199c/ad0e437eb103/f21eb20d57ac/01131367526-e2/01131367526-e2.jpg?ts=1713855383517&w=563"
+		]
+	},
+	{
+		"productName": "SMILEY ORIGINALS T-SHIRT",
+		"price": 499.0,
+		"description": "Short sleeve T-shirt with a round neck and drop shoulders. Smiley® Originals contrast print and slogan.",
+		"category": "fashion",
+		"subCategory": "t-shirts",
+		"color": "gray",
+		"images": [
+			"https://static.zara.net/assets/public/f8f9/aa1e/e78b4c1c91bf/45d801d9f79c/00085360802-e1/00085360802-e1.jpg?ts=1712658793777&w=563",
+			"https://static.zara.net/assets/public/69a2/ac17/81aa4ad4a764/5377ceeacd40/00085360802-e2/00085360802-e2.jpg?ts=1712658801130&w=563"
+		]
+	},
+	{
+		"productName": "CROPPED KNIT SWEATER WITH CONTRAST TOPSTITCHING",
+		"price": 1099.0,
+		"description": "Cropped sweater with a V-neckline and long sleeves. Front patch pockets. Contrast topstitching detail.",
+		"category": "fashion",
+		"subCategory": "knitwear + sweatshirts",
+		"color": "gray",
+		"images": [
+			"https://static.zara.net/assets/public/3469/e745/2c564bd3b128/15c7a2cab937/09598003803-e1/09598003803-e1.jpg?ts=1702370053852&w=563",
+			"https://static.zara.net/assets/public/c705/1d0c/58254b7991ff/af44f41b1a8b/09598003803-e2/09598003803-e2.jpg?ts=1702370052470&w=563"
+		]
+	},
+	{
+		"productName": "KNIT CROPPED SWEATER",
+		"price": 839.0,
+		"description": "High neck sweater with long sleeves. Zip-up front.",
+		"category": "fashion",
+		"subCategory": "knitwear + sweatshirts",
+		"color": "blue",
+		"images": [
+			"https://static.zara.net/assets/public/9d7b/d94c/502c4d3f9ca6/bb888b261697/06771011406-e1/06771011406-e1.jpg?ts=1709300679036&w=563",
+			"https://static.zara.net/assets/public/4225/3e08/6d2045d9bc23/a69b192d2837/06771011406-e2/06771011406-e2.jpg?ts=1709549493532&w=563"
+		]
+	},
+	{
+		"productName": "ZW 90S WIDE-LEG FAUX LEATHER TROUSERS",
+		"price": 899.0,
+		"description": "High-waist trousers with a five-pocket design. Faux leather. Zip fly and button fastening.",
+		"category": "fashion",
+		"subCategory": "pants",
+		"color": "black",
+		"images": [
+			"https://static.zara.net/photos///2022/I/0/1/p/2969/242/800/2/w/563/2969242800_6_1_1.jpg?ts=1660895212978",
+			"https://static.zara.net/photos///2022/I/0/1/p/2969/242/800/2/w/563/2969242800_6_2_1.jpg?ts=1660895206861"
+		]
+	},
+	{
+		"productName": "SOFT WIDE-LEG TROUSERS",
+		"price": 679.0,
+		"description": "Mid-rise trousers made of spun cotton. Featuring an elasticated waistband with adjustable drawstrings, front pockets, soft fabric detail and a wide-leg design.",
+		"category": "fashion",
+		"subCategory": "pants",
+		"color": "gray",
+		"images": [
+			"https://static.zara.net/photos///2023/I/0/1/p/1058/659/803/2/w/563/1058659803_6_1_1.jpg?ts=1700741489446",
+			"https://static.zara.net/photos///2023/I/0/1/p/1058/659/803/2/w/563/1058659803_6_2_1.jpg?ts=1700741485274"
+		]
+	},
+	{
+		"productName": "TRF CARGO MID-RISE JEANS",
+		"price": 1099.0,
+		"description": "Mid-rise jeans with front pockets and patch pockets on the back and leg. Belt loops. Front zip fly and metal button fastening.",
+		"category": "fashion",
+		"subCategory": "jeans",
+		"color": "blue",
+		"images": [
+			"https://static.zara.net/assets/public/72f1/dc78/6102417897d0/c017bd7d227a/08197258400-e1/08197258400-e1.jpg?ts=1706607434405&w=563",
+			"https://static.zara.net/assets/public/70f0/f7b8/98a140c2abee/de936ca33766/08197258400-e2/08197258400-e2.jpg?ts=1706607432053&w=563"
+		]
+	},
+	{
+		"productName": "ZW COLLECTION MARINE STRAIGHT-LEG HIGH-WAIST JEANS WITH POCKETS",
+		"price": 899.0,
+		"description": "High-waist jeans with belt loops. Patch pockets on the front and back. Contrast visible topstitching detail. Seamless hems. Front zip fly and button fastening.",
+		"category": "fashion",
+		"subCategory": "jeans",
+		"color": "blue",
+		"images": [
+			"https://static.zara.net/assets/public/d86d/3a20/2e2b423089d5/01d8aee91dcb/07513744400-e1/07513744400-e1.jpg?ts=1710248840695&w=563",
+			"https://static.zara.net/assets/public/7f84/b428/52a641d0a097/67e2594e70ef/07513744400-e2/07513744400-e2.jpg?ts=1710248841326&w=563"
+		]
+	},
+	{
+		"productName": "SATIN MIDI SKIRT",
+		"price": 679.0,
+		"description": "Mid-rise midi skirt made of satin fabric with an elasticated waistband.",
+		"category": "fashion",
+		"subCategory": "skirts + shorts",
+		"productType": "skirt",
+		"color": "black",
+		"images": [
+			"https://static.zara.net/assets/public/667f/b3a6/bb4b48bb934e/82ce6d217408/05427421800-e1/05427421800-e1.jpg?ts=1709301326308&w=563",
+			"https://static.zara.net/assets/public/3ced/2f81/704b46c395b4/234b88494959/05427421800-e2/05427421800-e2.jpg?ts=1709301327491&w=563"
+		]
+	},
+	{
+		"productName": "SKORT WITH POCKETS",
+		"price": 769.0,
+		"description": "High-waist skort with front pockets and side flap pockets. Front zip and metal hook fastening.",
+		"category": "fashion",
+		"subCategory": "skirts + shorts",
+		"productType": "skort",
+		"color": "cream",
+		"images": [
+			"https://static.zara.net/assets/public/9899/d23e/689047d48e00/10059a53a6c6/01255945707-e1/01255945707-e1.jpg?ts=1720086198018&w=563",
+			"https://static.zara.net/assets/public/21e9/43f9/55da462d886b/4d3955a4da28/01255945707-e2/01255945707-e2.jpg?ts=1720086198237&w=563"
+		]
+	},
+	{
+		"productName": "HEELED SLINGBACK SHOES",
+		"price": 899.0,
+		"description": "High-heel slingback shoes with embossed detailing on the upper. Buckled ankle strap fastening. Pointed toe.",
+		"category": "fashion",
+		"subCategory": "shoes",
+		"color": "cream",
+		"images": [
+			"https://static.zara.net/assets/public/42ca/300c/59204a85aff5/a9fe95a536d8/12212210800-e1/12212210800-e1.jpg?ts=1719499982829&w=563",
+			"https://static.zara.net/assets/public/3593/2876/05f043d0bac8/917cf77736e7/12212210800-e2/12212210800-e2.jpg?ts=1719499982266&w=563"
+		]
+	},
+	{
+		"productName": "HEELED SHOES WITH ANKLE STRAP",
+		"price": 999.0,
+		"description": "High-heel shoes with a faux patent finish. Pointed toe. Buckled ankle strap fastening.",
+		"category": "fashion",
+		"subCategory": "shoes",
+		"color": "red",
+		"images": [
+			"https://static.zara.net/assets/public/7120/f885/ff1c460aadb0/8c923322b4d0/13208410624-e1/13208410624-e1.jpg?ts=1719847281814&w=563",
+			"https://static.zara.net/assets/public/861c/0ecb/202d43239420/1c1b21323fab/13208410624-e2/13208410624-e2.jpg?ts=1719847282084&w=563"
+		]
+	},
+	{
+		"productName": "MINI CITY BAG WITH KNOTS",
+		"price": 669.0,
+		"description": "Mini city bag. Knot detail on the exterior. Matching topstitching. Golden metal hardware. Top handles. Adjustable and detachable shoulder strap. Metal zip closure.",
+		"category": "fashion",
+		"subCategory": "bags",
+		"color": "green",
+		"images": [
+			"https://static.zara.net/assets/public/6d97/bd8b/31b3477aa9d6/f4c858246d00/18618004500-e1/18618004500-e1.jpg?ts=1717078671472&w=563",
+			"https://static.zara.net/assets/public/c106/e1c4/9add4b899aa7/adb427c4c093/18618004500-e3/18618004500-e3.jpg?ts=1717078663562&w=563"
+		]
+	},
+	{
+		"productName": "MINI CITY BAG",
+		"price": 769.0,
+		"description": "Mini city bag. Top handles with topstitching and metal details. Removable and adjustable crossbody strap. Two inside compartments.",
+		"category": "fashion",
+		"subCategory": "bags",
+		"color": "red",
+		"images": [
+			"https://static.zara.net/photos///2024/V/1/1/p/6204/310/800/2/w/563/6204310800_6_1_1.jpg?ts=1701247181829",
+			"https://static.zara.net/photos///2024/V/1/1/p/6204/310/800/2/w/563/6204310800_6_4_1.jpg?ts=1701247181816"
+		]
+	},
+	{
+		"productName": "MOONLIGHT WHISPER",
+		"price": 599.0,
+		"description": "At the top is an enticing fusion of caramelised pistachio, bergamot and cardamom. Delicate whispers of violet and peony dance with the intoxicating aroma of Bellini Blossom and Pink Sugar to weave a spell of enchantment. As the fragrance unfolds, notes of Skin Musks and amber create an aura of magnetic allure, while Whipped Vanilla adds a touch of decadence and warmth.",
+		"category": "beauty",
+		"subCategory": "fragrance",
+		"color": "cream",
+		"images": [
+			"https://static.zara.net/assets/public/3358/e541/355742179859/32586881df8b/20120635999-e1/20120635999-e1.jpg?ts=1714739195766&w=563"
+		]
+	},
+	{
+		"productName": "HYPNOTIC VANILLA",
+		"price": 599.0,
+		"description": "Eau de parfum. An addictive and hypnotic feminine bouquet that embraces rich golden vanilla.",
+		"category": "beauty",
+		"subCategory": "fragrance",
+		"color": "brown",
+		"images": [
+			"https://static.zara.net/assets/public/7fc2/6754/d0e046e496ba/b48789155d73/4000.jpg?ts=1694509516501&w=563"
+		]
+	},
+	{
+		"productName": "GRADUAL SELF-TANNING DROPS",
+		"price": 399.0,
+		"description": "Light-textured self-tanning drops designed to provide a natural and gradual tanning effect, suitable for all skin types.",
+		"category": "beauty",
+		"subCategory": "skincare",
+		"productType": "self-tanning",
+		"color": "white",
+		"images": [
+			"https://static.zara.net/assets/public/aece/29f1/fe3c476b9a13/9a1ac4565e97/24880104999-e1/24880104999-e1.jpg?ts=1716372273320&w=563"
+		]
+	},
+	{
+		"productName": "ZARA ALL THAT GLIMMERS SHIMMERING BODY OIL BO372 SOLAR GLAZE",
+		"price": 349.0,
+		"description": "Lightweight body oil that leaves your skin feeling luxurious and shiny with an amber fragrance.",
+		"category": "beauty",
+		"subCategory": "skincare",
+		"productType": "body oil",
+		"color": "brown",
+		"images": [
+			"https://static.zara.net/assets/public/5237/7a03/e73d49548b11/9ec40a14e884/24870703372-e1/24870703372-e1.jpg?ts=1711438394456&w=563"
+		]
+	},
+	{
+		"productName": "CREAM EYE SHADOW",
+		"price": 229.0,
+		"description": "A new cream eye shadow formula that's super pigmented for easy application. Available in three intense, sunset-inspired shades.",
+		"category": "beauty",
+		"subCategory": "makeup",
+		"productType": "eyeshadow",
+		"color": "red",
+		"images": [
+			"https://static.zara.net/assets/public/4f9c/4483/46d14dc7af4f/81b1d12348eb/24660215373-e1/24660215373-e1.jpg?ts=1716544115800&w=563"
+		]
+	},
+	{
+		"productName": "CREAM EYE SHADOW",
+		"price": 229.0,
+		"description": "A new cream eye shadow formula that's super pigmented for easy application. Available in three intense, sunset-inspired shades.",
+		"category": "beauty",
+		"subCategory": "makeup",
+		"productType": "eyeshadow",
+		"color": "cream",
+		"images": [
+			"https://static.zara.net/assets/public/fb00/1747/da3d40ebb0c8/3442962cea2a/24660213374-e1/24660213374-e1.jpg?ts=1716544115400&w=563"
+		]
+	},
+	{
+		"productName": "CLOTH CAP",
+		"price": 499.0,
+		"description": "Peak cap with an adjustable strap at the back.",
+		"category": "fashion",
+		"subCategory": "accessories",
+		"productType": "cap",
+		"color": "black",
+		"images": [
+			"https://static.zara.net/assets/public/057a/6651/05c147b68ca4/20402c0f2fba/01023007801-e1/01023007801-e1.jpg?ts=1705590075828&w=563"
+		]
+	},
+	{
+		"productName": "CLOTH CAP",
+		"price": 499.0,
+		"description": "Peak cap with an adjustable strap at the back.",
+		"category": "fashion",
+		"subCategory": "accessories",
+		"productType": "cap",
+		"color": "cream",
+		"images": [
+			"https://static.zara.net/assets/public/bb64/1bae/d9854268a96c/825c487dda9a/01023007711-e1/01023007711-e1.jpg?ts=1705590074664&w=563"
+		]
+	},
+	{
+		"productName": "QUARTER-ZIP SCARF",
+		"price": 769.0,
+		"description": "Ribbed knit scarf with a high neck and metal zip.",
+		"category": "fashion",
+		"subCategory": "accessories",
+		"productType": "scarf",
+		"color": "gray",
+		"images": [
+			"https://static.zara.net/assets/public/adc5/0725/f80749518eda/60ff478d3962/03920287807-e1/03920287807-e1.jpg?ts=1700744393329&w=563",
+			"https://static.zara.net/assets/public/46cc/09f4/c3c44c9b85bf/5a8566188077/03920287807-e2/03920287807-e2.jpg?ts=1700744384889&w=563"
+		]
+	},
+	{
+		"productName": "KNIT SCARF",
+		"price": 679.0,
+		"description": "Knit scarf.",
+		"category": "fashion",
+		"subCategory": "accessories",
+		"productType": "scarf",
+		"color": "gray",
+		"images": [
+			"https://static.zara.net/photos///2023/I/0/1/p/5987/203/700/2/w/563/5987203700_6_1_1.jpg?ts=1696588562561"
+		]
+	},
+	{
+		"productName": "ZARA HAIR BLOW DRY SPRAY",
+		"price": 399.0,
+		"description": "A rinse-free spray to use before drying or straightening your hair and protect it from heat, while providing a shiny finish.",
+		"category": "beauty",
+		"subCategory": "haircare",
+		"color": "blue",
+		"images": [
+			"https://static.zara.net/assets/public/4654/787a/6c634bbc8a95/861ddcd4c7bd/21110003999-p/21110003999-p.jpg?ts=1709226776373&w=563"
+		]
+	},
+	{
+		"productName": "ZARA HAIR LIGHT HAIR BALM",
+		"price": 399.0,
+		"description": "A balm that returns hydration to dry hair, increasing shine and softness, to achieve silky and hydrated hair.",
+		"category": "beauty",
+		"subCategory": "haircare",
+		"color": "pink",
+		"images": [
+			"https://static.zara.net/assets/public/6b45/c679/291f4fb698af/86352c332666/21110004999-p/21110004999-p.jpg?ts=1709226775412&w=563"
+		]
+	},
+	{
+		"productName": "MESH BASKET WITH FABRIC LINING",
+		"price": 559.0,
+		"description": "Rectangular mesh basket with a metal smocked panel and removable linen lining.",
+		"category": "home",
+		"subCategory": "kitchen",
+		"color": "cream",
+		"images": [
+			"https://static.zarahome.net/8/photos4/2024/V/4/1/p/0253/049/733/0253049733_1_1_2.jpg?t=1708081425015&imwidth=614&imformat=chrome"
+		]
+	},
+	{
+		"productName": "PORCELAIN MINI BOWL WITH ANTIQUE FINISH RIM",
+		"price": 119.0,
+		"description": "Porcelain mini bowl with a contrast antique-effect rim detail.",
+		"category": "home",
+		"subCategory": "kitchen",
+		"color": "green",
+		"images": [
+			"https://static.zarahome.net/8/photos4/2024/I/4/1/p/5270/467/982/5270467982_1_1_2.jpg?t=1705508148150&imwidth=614&imformat=chrome"
+		]
+	},
+	{
+		"productName": "CHECK FLANNEL DUVET COVER",
+		"price": 1639.0,
+		"description": "Flannel duvet cover with a check design on a light grey background.Concealed button fastening at the bottom.",
+		"category": "home",
+		"subCategory": "bedroom",
+		"color": "gray",
+		"images": [
+			"https://static.zarahome.net/8/photos4/2024/V/4/1/p/5116/088/802/5116088802_2_5_2.jpg?t=1705332400791&imwidth=614&imformat=chrome"
+		]
+	},
+	{
+		"productName": "FAUX FUR THROW",
+		"price": 3009.0,
+		"description": "Soft textured faux fur throw with an ombré design.",
+		"category": "home",
+		"subCategory": "bedroom",
+		"color": "brown",
+		"images": [
+			"https://static.zarahome.net/8/photos4/2024/V/4/1/p/2161/004/809/2161004809_2_1_2.jpg?t=1702642735700&imwidth=614&imformat=chrome"
+		]
+	},
+	{
+		"productName": "RATTAN CHAIR",
+		"price": 4409.0,
+		"description": "Rattan chair with a woven rattan seat and back.",
+		"category": "home",
+		"subCategory": "furniture",
+		"color": "cream",
+		"images": [
+			"https://static.zarahome.net/8/photos4/2024/V/4/1/p/5238/073/052/5238073052_1_1_2.jpg?t=1689331957666&imwidth=614&imformat=chrome",
+			"https://static.zarahome.net/8/photos4/2024/V/4/1/p/5238/073/052/5238073052_2_1_2.jpg?t=1689331957666&imwidth=614&imformat=chrome"
+		]
+	},
+	{
+		"productName": "ASH WOOD AND LINEN ARMCHAIR",
+		"price": 8609.0,
+		"description": "Upholstered armchair with linen fabric and an ash wood frame.",
+		"category": "home",
+		"subCategory": "furniture",
+		"color": "cream",
+		"images": [
+			"https://static.zarahome.net/8/photos4/2024/I/4/1/p/4151/073/052/4151073052_1_1_2.jpg?t=1640251612658&imwidth=614&imformat=chrome",
+			"https://static.zarahome.net/8/photos4/2024/I/4/1/p/4151/073/052/4151073052_2_1_2.jpg?t=1640251612658&imwidth=614&imformat=chrome"
+		]
+	}
+]

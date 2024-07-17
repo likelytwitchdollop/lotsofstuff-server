@@ -1,55 +1,65 @@
 {
-  "name": "lots-of-stuff-server",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "build": "rm -rf dist/ && tsc --esModuleInterop",
-    "prestart": "npm run build",
-    "start": "ts-node -r tsconfig-paths/register dist/index.js",
-    "dev": "nodemon src/index.ts",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "npx eslint . --ext .js,.jsx,.ts,.tsx",
-    "prepare": "husky install"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/cookie-parser": "^1.4.7",
-    "@types/cors": "^2.8.17",
-    "@types/express": "^4.17.21",
-    "@typescript-eslint/eslint-plugin": "^7.16.0",
-    "@typescript-eslint/parser": "^7.16.0",
-    "commitizen": "^4.3.0",
-    "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^8.2.0",
-    "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-config-airbnb-typescript": "^18.0.0",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-import-resolver-typescript": "^3.6.1",
-    "eslint-plugin-import": "^2.29.1",
-    "eslint-plugin-node": "^11.1.0",
-    "husky": "^8.0.0",
-    "lint-staged": "^15.2.7",
-    "nodemon": "^3.1.4",
-    "prettier": "3.3.2",
-    "ts-node": "^10.9.2",
-    "tsconfig-paths": "^4.2.0",
-    "typescript": "^5.5.3"
-  },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
-  },
-  "dependencies": {
-    "chalk": "^4.1.2",
-    "cookie-parser": "^1.4.6",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "mongodb": "^6.8.0",
-    "mongoose": "^8.5.0"
-  }
+	"name": "lots-of-stuff-server",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "rm -rf dist/ && tsc --esModuleInterop",
+		"prestart": "npm run build",
+		"start": "ts-node -r tsconfig-paths/register dist/index.js",
+		"dev": "nodemon src/index.ts",
+		"test": "jest",
+		"lint": "npx eslint . --ext .js,.jsx,.ts,.tsx",
+		"prepare": "husky install"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/cookie-parser": "^1.4.7",
+		"@types/cors": "^2.8.17",
+		"@types/express": "^4.17.21",
+		"@types/jest": "^29.5.12",
+		"@types/node-cron": "^3.0.11",
+		"@types/request": "^2.48.12",
+		"@types/supertest": "^6.0.2",
+		"@typescript-eslint/eslint-plugin": "^7.16.0",
+		"@typescript-eslint/parser": "^7.16.0",
+		"commitizen": "^4.3.0",
+		"cz-conventional-changelog": "^3.3.0",
+		"eslint": "^8.2.0",
+		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-config-airbnb-typescript": "^18.0.0",
+		"eslint-config-prettier": "^9.1.0",
+		"eslint-import-resolver-typescript": "^3.6.1",
+		"eslint-plugin-import": "^2.29.1",
+		"eslint-plugin-node": "^11.1.0",
+		"husky": "^8.0.0",
+		"jest": "^29.5.0",
+		"lint-staged": "^15.2.7",
+		"nodemon": "^3.1.4",
+		"prettier": "3.3.2",
+		"supertest": "^7.0.0",
+		"ts-jest": "^29.2.2",
+		"ts-node": "^10.9.2",
+		"tsconfig-paths": "^4.2.0",
+		"typescript": "^5.5.3"
+	},
+	"config": {
+		"commitizen": {
+			"path": "./node_modules/cz-conventional-changelog"
+		}
+	},
+	"dependencies": {
+		"chalk": "^4.1.2",
+		"cookie-parser": "^1.4.6",
+		"cors": "^2.8.5",
+		"dotenv": "^16.4.5",
+		"express": "^4.19.2",
+		"mongodb": "^6.8.0",
+		"mongoose": "^8.5.0",
+		"node-cron": "^3.0.3",
+		"request": "^2.88.2",
+		"zod": "^3.23.8"
+	}
 }

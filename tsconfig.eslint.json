@@ -7,6 +7,7 @@
 		"*.tsx",
 
 		// These are the eslint-only inclusions. When the parserOptions error is thrown, add affected file here.
-		".eslintrc.js"
+		".eslintrc.js",
+		"jest.config.js"
 	]
 }

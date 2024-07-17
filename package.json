@@ -9,8 +9,7 @@
 		"start": "ts-node -r tsconfig-paths/register dist/index.js",
 		"dev": "nodemon src/index.ts",
 		"test": "jest",
-		"lint": "npx eslint . --ext .js,.jsx,.ts,.tsx",
-		"prepare": "husky install"
+		"lint": "npx eslint . --ext .js,.jsx,.ts,.tsx"
 	},
 	"keywords": [],
 	"author": "",
